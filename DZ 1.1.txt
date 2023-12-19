@@ -1,4 +1,4 @@
-1)$ cd ~
+1)cd ~
 2)pwd 
 3)mkdir test1
 4)cd test1
@@ -9,8 +9,8 @@
 9)rm -R test2
 10)rm test1/2
 11)mkdir test3 && touch test3/4 test3/5
-12)$ rm -R test3
-13)$ mkdir test4
+12)rm -R test3
+13)mkdir test4
 14)mv test1/1 test4 
 mv test1/3 test4
 15)echo -e "line\n line\n line\n" >> 1

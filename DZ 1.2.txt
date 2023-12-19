@@ -1,0 +1,18 @@
+1)cd ~
+2)mkdir test3
+3)cd test3
+touch 4 5 6 && echo -e "raw1\nraw2\nraw3\nraw4" | tee  *
+4)grep -i raw2 test3/5
+5)grep -r "raw" test3
+6)grep row test3/6 | wc -l
+7)find test3 -type f -name "5"
+8)find test3 -type f -name "5" -delete
+9)echo -e "test" >> test3/4
+10)sed -i 's/test/fail/' test3/4
+11)echo -e "test" >> test3/4
+12)ps aux
+13)kill 666
+14)ping artsiomrusau.com
+15)ping -c 5 artsiomrusau.com
+16)curl -X GET https://petstore.swagger.io/v2/pet/findByStatus?status=available
+17)curl -X POST https://petstore.swagger.io/v2/user -H 'Content-Type: application/json' -d '{"id":9878546789,"username": "BASH","firstName": "LINUX","lastName": "TERMINAL","email": "string@null.com","password": "zbl","phone": "879789789","userStatus": 0}'
