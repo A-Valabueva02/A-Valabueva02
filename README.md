@@ -63,20 +63,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
-<!--
-<h2>Test Artifacts </h2>
+
+---
+
+<h2>Тестовые артефакты </h2>
+
 <p> 
  <ul>
-<li>  <a href="">Webshop testing</a>  </li>
-<li>  <a href=""> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="">MySQL</a>   </li>
-<li>  <a href=""> Android app testing</a>   </li>
-<li> <a href="">Replacing data with CharlesProxy</a>  </li>
-<li> <a href=""> Bash </a>  </li>
-<li> <a href=""> Git </a> </li>
-</ul>
--->
+  <li>  <a href="https://github.com/A-Valabueva02/api_testing"> REST and SOAP API testing via Postman </a>   </li>
+  <li> <a href="https://github.com/A-Valabueva02/SQL">MySQL</a>   </li>
+  <li>  <a href="https://github.com/A-Valabueva02/mobile_testing"> Android app testing</a>   </li>
+  <li> <a href="https://github.com/A-Valabueva02/bash"> Bash </a>  </li>
+  <li> <a href="https://github.com/A-Valabueva02/git"> Git </a> </li>
+ </ul>
 </p>
+
 <h3 align="center"> Как связаться со мной: </h3>
 <p align="center">
 <a href= "https://t.me/nasananas02"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
